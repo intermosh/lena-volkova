@@ -6,7 +6,7 @@
 
 > Sistema de persona autoral implementado como contrato técnico para un modelo de lenguaje que dirige modelos de imagen. La autoría se codifica como procedimiento: perfil invariante, proceso creativo simulado, rúbrica anti-cliché falsable, settings modulares de estilo y un loop final de dirección humana.
 
-[Paper (PDF)](paper_lena.pdf) · [Archivos del sistema (v3)](files/) · [Versión web](index.html)
+[Paper (PDF)](paper_lena.pdf) · [Archivos del sistema (v3)](files/) · [Versión web](https://intermosh.github.io/lena)
 
 ---
 
