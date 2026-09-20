@@ -1,1 +1,0 @@
-Es la primer version de la implementacion geneplore. Esta bien modularizado para ajustarlo de forma intuitiva. Es optima para crear un agente de cero con caracteristicas custom. Tenes que darle varios referentes de estilo y autores para determinar los focos con autores puntuales.
